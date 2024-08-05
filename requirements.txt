@@ -1,0 +1,5 @@
+numpy==1.24.3
+PyYAML==6.0.1
+torch==1.13.1
+tqdm==4.65.0
+transformers==4.32.1
